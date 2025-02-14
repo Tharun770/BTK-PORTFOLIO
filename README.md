@@ -2,7 +2,7 @@
 📌 Portfolio Website - TharunTech Hub 🔹 Project Overview The TharunTech Hub is a personal portfolio website designed to showcase my skills, certifications, projects, and achievements in software development and cybersecurity. 
 
 🔹 Project Overview
-The TharunTech Hub is a personal portfolio website designed to showcase my skills, certifications, projects, and achievements in software development and cybersecurity. Built with HTML, CSS, and JavaScript, this responsive website provides an interactive and engaging experience, giving visitors insights into my technical expertise and professional journey.
+  The TharunTech Hub is a personal portfolio website designed to showcase my skills, certifications, projects, and achievements in software development and cybersecurity. Built with HTML, CSS, and JavaScript, this responsive website provides an interactive and engaging experience, giving visitors insights into my technical expertise and professional journey.
 
 🔹 Features
 ✅ Home Page – A welcoming introduction with a professional profile picture and a brief bio.
